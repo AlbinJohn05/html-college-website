@@ -1,0 +1,12 @@
+p{
+    text-align: center;
+    background-color:white;
+    
+}
+a:link{
+    text-decoration: none;
+
+}
+a:hover{
+    color: red;
+}
